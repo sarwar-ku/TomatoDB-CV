@@ -16,9 +16,7 @@ dataset = version.download("coco")
 
 curl -L "https://universe.roboflow.com/ds/fOsTXolSlI?key=B2n36gvGuE" > roboflow.zip; unzip roboflow.zip; rm roboflow.zip
 
-
-# 2. The direct link to download your zip file is:
-
+#2. The direct link to download the zip file
 https://universe.roboflow.com/ds/fOsTXolSlI?key=B2n36gvGuE
 
 
