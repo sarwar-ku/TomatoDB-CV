@@ -1,0 +1,2 @@
+image_id,collection_method,camera_model,altitude_m,gps_lat,gps_lon,gimbal_pitch,gimbal_roll,ground_sample_distance,overlap_front,overlap_side
+TOMATO_UAV_001.jpg,uav,dji_air2s,5,40.7128,-74.006,90,0,1.46,0.8,0.7
